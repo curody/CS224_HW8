@@ -1,1 +1,0 @@
-gcc -c -DDODEBUG=1 code.c -o code
